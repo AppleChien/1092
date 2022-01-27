@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+}
+div{
+  width: 100px;
+  height: 50px;
+  margin: 100px 50px;
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  background-color:darkslateblue;
+  font-size: 25px;
+}
+p{
+  color: red;
+  height: 20px;
+}
